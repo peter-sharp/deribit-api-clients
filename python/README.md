@@ -2,7 +2,10 @@
 
 ## Overview
 
-Deribit provides three different interfaces to access the API: _ [JSON-RPC over Websocket](#json-rpc) _ [JSON-RPC over HTTP](#json-rpc) \* [FIX](#fix-api) (Financial Information eXchange) With the API Console you can use and test the JSON-RPC API, both via HTTP and via Websocket. To visit the API console, go to **Account > API tab > API Console tab.**
+Deribit provides three different interfaces to access the API: 
+ - [JSON-RPC over Websocket](#json-rpc) 
+ -  [JSON-RPC over HTTP](#json-rpc) \* 
+ - [FIX](#fix-api) (Financial Information eXchange) With the API Console you can use and test the JSON-RPC API, both via HTTP and via Websocket. To visit the API console, go to **Account > API tab > API Console tab.**
 
 ## Naming
 
