@@ -248,9 +248,9 @@ Python 2.7 and 3.4+
 If the python package is hosted on Github, you can install directly from Github
 
 ```sh
-pip install git+https://github.com/GIT_USER_ID/GIT_REPO_ID.git
+pip install --user -U git+https://github.com/deribit/deribit-api-clients.git#egg=openapi_client\&subdirectory=python
 ```
-(you may need to run `pip` with root permission: `sudo pip install git+https://github.com/GIT_USER_ID/GIT_REPO_ID.git`)
+(you may need to run `pip` with root permission: `sudo pip install --user -U git+https://github.com/deribit/deribit-api-clients.git#egg=openapi_client\&subdirectory=python`)
 
 Then import the package:
 ```python
